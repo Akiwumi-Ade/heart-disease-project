@@ -97,7 +97,7 @@ Target:
 
 ## 👨‍💻 Author
 Samuel Akiwumi Ade  
-Aspiring Data Scientist | ALX Africa Graduate  
+Data Scientist | ALX Africa Graduate 
 Passionate about using data to solve real-world problems
 
 ---
