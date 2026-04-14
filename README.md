@@ -108,3 +108,23 @@ This project is part of my data science portfolio to demonstrate skills in:
 - Machine learning
 - Feature engineering
 - Model evaluation
+
+## 📊 Visualizations
+
+### Correlation Matrix
+![Correlation](images/feature_correlation_matrix_1.png)
+![Correlation](images/feature_correlation_matrix_2.png)
+
+### Feature importance
+![Feature importance](images/feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+## 📈 Final Results
+
+- Logistic Regression Accuracy: 85%
+- ROC-AUC Score: 0.94
+- Balanced performance across both classes
+
+This shows the model can reliably distinguish between patients with and without heart disease.
