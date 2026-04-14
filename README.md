@@ -97,7 +97,7 @@ Target:
 
 ## 👨‍💻 Author
 Samuel Akiwumi Ade  
-Data Scientist   |  
+Data Scientist     
 Passionate about using data to solve real-world problems
 
 ---
